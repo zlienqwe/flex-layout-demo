@@ -1,3 +1,5 @@
-# holy-grail
+# flex can do everything..
 
-这种布局，看代码看得人头大，根本用`flex`就好了啊！
+不管是什么布局，Flex往往都可以几行命令搞定
+
+> 人生苦短，我用flex?
