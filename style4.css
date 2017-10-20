@@ -1,0 +1,21 @@
+.parent {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+
+}
+
+.child:nth-child(5),
+.child:nth-child(6),
+.child:nth-child(8){
+    flex: 0 0 50%;
+}
+
+.child {
+    box-sizing: border-box;
+    background-color: green;
+    flex: 0 0 25%;
+    height: 50px;
+    padding: 10px;
+    background-clip: content-box;
+}
